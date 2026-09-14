@@ -42,7 +42,7 @@ export default function TechCard({ tech, onAdd, isAdded }) {
               : "bg-slate-900 hover:bg-slate-800 text-white shadow-sm hover:shadow"
           }`}
         >
-          {isAdded ? "✓ Added to Stack" : "Add to Stack"}
+          {isAdded ? "Added to Stack" : "Add to Stack"}
         </button>
       </div>
     </div>
