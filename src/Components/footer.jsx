@@ -26,7 +26,7 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Links Column 1: Product */}
+         
           <div className="space-y-3">
             <h4 className="text-xs font-bold text-gray-900 tracking-wider uppercase">Product</h4>
             <ul className="space-y-2 text-xs text-gray-500">
